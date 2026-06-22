@@ -1,7 +1,7 @@
 # 🛵 Phân Tích Dữ Liệu Đặt Xe Công Nghệ Tại Việt Nam
 
 > **Đề tài Cuối Kỳ – Môn Khoa Học Dữ Liệu**  
-> Phân tích hành vi đặt xe công nghệ (Grab, Be, Gojek) tại TP. Hồ Chí Minh năm 2024
+> Phân tích hành vi đặt xe công nghệ (Grab, Be, Gojek) tại TP. Hồ Chí Minh năm 2024  
 > Link yuotube:https://youtu.be/KWfLhR64Ri8?si=4ZMVRUzRTWz2jxxr
 
 ---
